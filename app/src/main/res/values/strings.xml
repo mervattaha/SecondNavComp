@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondNavComp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="testval">testVal</string>
+</resources>
